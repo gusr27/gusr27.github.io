@@ -1,0 +1,34 @@
+.App{
+
+	text-align: center;
+	font-size: 35px;
+	margin-top: 20%;
+}
+.App-title{
+	font-size: 50px;
+}
+.Stopwatch-title{
+	font-size: 40px;
+}
+.Clock-hours, .Clock-days, .Clock-minutes, .Clock-seconds{
+	display: inline;
+	margin: 10px;
+}
+.Clock-hours-sw, .Clock-days-sw, .Clock-minutes-sw, .Clock-seconds-sw{
+	display: inline;
+	margin: 10px;
+	font-size: 20px;
+}
+
+.Stopwatch-select{
+	margin: 10px;
+}
+.Deadline-input{
+	font-size: 25px;
+	margin: 5px;
+}
+
+body{
+	background-color: #FFD300;
+	color: #3B12BD;
+}
